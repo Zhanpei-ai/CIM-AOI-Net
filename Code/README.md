@@ -1,4 +1,4 @@
-# AOI_Net
+# AOI-Net
 
 Code repository for the paper
 
