@@ -1,0 +1,25 @@
+{
+  "features": [
+    "X_pos",
+    "Y_pos",
+    "Pupil_Size_X",
+    "Pupil_Size_Y",
+    "Pupil_Diameter",
+    "Dispersion_X",
+    "Dispersion_Y",
+    "Duration"
+  ],
+  "column_rename": {
+    "Participant": "Participant_ID",
+    "Fixation Position X [px]": "X_pos",
+    "Fixation Position Y [px]": "Y_pos",
+    "Fixation Average Pupil Size X [px]": "Pupil_Size_X",
+    "Fixation Average Pupil Size Y [px]": "Pupil_Size_Y",
+    "Fixation Average Pupil Diameter [mm]": "Pupil_Diameter",
+    "Fixation Dispersion X [px]": "Dispersion_X",
+    "Fixation Dispersion Y [px]": "Dispersion_Y",
+    "Event Duration [ms]": "Duration",
+    "AOI Name": "AOI",
+    "result": "Label"
+  }
+}
