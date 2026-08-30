@@ -18,7 +18,6 @@ participant level.
 
 ```
 Code/
-├── config.json             # data schema: raw columns -> features / labels
 ├── dataloader.py           # loads / encodes / standardizes .xlsx scanpaths
 ├── requirements.txt
 ├── README.md
