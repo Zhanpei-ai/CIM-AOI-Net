@@ -10,19 +10,24 @@ AOI-Net leverages **Area-of-Interest (AOI) structural priors** from facial regio
 
 ## Citation
 
-If you use this code, please cite our work with the following BibTeX entry (copy this block directly into your `.bib` file):
+## Citation
+
+If you use this code, please cite our work:
+
+> Zhanpei Huang, Binbin Sun, Jialiang Chen, Yiou Wang, Taochen Chen, Yuzhu Ji, Yiqun Zhang, and Yiu-ming Cheung,
+> “AOI-Net: Structural Face AOI-Guided Eye-Gaze Track Representation Learning for Autism Spectrum Disorder Detection,”
+> *IEEE Computational Intelligence Magazine*, 2026.
+> DOI: 10.1109/MCI.2026.3729548.
+
+The paper is also available through the [Hong Kong Baptist University Scholars](https://scholars.hkbu.edu.hk/en/publications/aoi-net-structural-face-aoi-guided-eye-gaze-track-representation-/) research portal.
 
 ```bibtex
 @article{Huang2026AOINet,
-  author  = {Zhanpei Huang and Binbin Sun and Jialiang Chen and Yiou Wang and Taochen Chen and Yuzhu Ji and Yiqun Zhang and Yiu-ming Cheung},
-  title   = {AOI-Net: Structural Face AOI-Guided Eye-Gaze Track Representation Learning for Autism Spectrum Disorder Detection},
-  journal = {IEEE Computational Intelligence Magazine},
-  year    = {2026},
-  month   = aug,
-  day     = {24},
-  doi     = {10.1109/MCI.2026.3729548},
-  issn    = {1556-603X},
-  publisher = {IEEE},
-  language = {English}
+  author    = {Zhanpei Huang and Binbin Sun and Jialiang Chen and Yiou Wang and Taochen Chen and Yuzhu Ji and Yiqun Zhang and Yiu-ming Cheung},
+  title     = {AOI-Net: Structural Face AOI-Guided Eye-Gaze Track Representation Learning for Autism Spectrum Disorder Detection},
+  journal   = {IEEE Computational Intelligence Magazine},
+  year      = {2026},
+  doi       = {10.1109/MCI.2026.3729548},
+  publisher = {IEEE}
 }
 ```
